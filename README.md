@@ -11,7 +11,7 @@ Pretty, minimal and fast prompt, inspired by [Pure](https://github.com/vkovtash/
 With [fisherman]:
 
 ```shell
-fisher derhuerst/vibrant
+fisher add derhuerst/vibrant
 ```
 
 ## Features
